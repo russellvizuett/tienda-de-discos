@@ -1,0 +1,170 @@
+.login, .login form {
+	overflow: auto;
+	margin-bottom: 0;
+}
+.login input-russ{
+	width: 110px;	
+}
+
+.login input {
+	float: left;
+	margin-top: 10px;
+}
+
+.login button {
+	float: left;
+	margin-top: 9px !important;
+	margin-left: 5px;
+}
+
+h1 russ{
+	color: rgb(161, 188, 209);
+}
+
+#globedia-widget {
+	width: 100% !important;
+	margin-top: 2em;
+}
+
+.col1 {
+	width: 100% !important;
+}
+
+#widget-lista {
+	width: 100% !important;
+	height: auto !important;
+	padding: 15px 0 !important;
+}
+
+#widget-lista .noticia {
+	width: 20% !important;
+	float: left !important;
+	margin: 0 !important;
+	box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+	-webkit-box-sizing: border-box !important;
+	padding: 0 10px !important;
+	border: none !important;
+}
+
+#cierre {
+	display: none;
+}
+
+.add {
+	cursor: pointer;
+	display: block;
+}
+
+.cancion {
+	display: block !important;
+	margin-bottom: 10px !important;
+}
+
+.boton-compra {
+	float: left;
+	width: 50%;
+	margin: 0;
+}
+
+.boton-compra .precio {
+	display: block;
+	font-size: 1em;
+	margin: 5px 0 10px 0;
+}
+
+.controls strong {
+	margin-top: 6px;
+	display: inline-block;
+}
+
+.caratula {
+	width: 250px;
+}
+
+.roundabout-holder {
+      list-style: none;
+      padding: 0;
+      margin: auto;
+      margin-bottom: 1em;
+      height: 20em;
+      width: 30em;
+}
+.roundabout-moveable-item {
+      height: 20em;
+      width: 23em;
+      cursor: pointer;
+      background-color: #ccc;
+      border: 1px solid #999;
+}
+.roundabout-in-focus {
+      cursor: auto;
+   }
+.roundabout-holder img {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.next{
+	cursor: pointer;
+	float: right;
+	margin-right: 13em;
+}
+
+.prev{
+	cursor: pointer;
+	float: left;
+	margin-left: 12em;
+}
+.title{
+	text-align: center;
+ margin-bottom: 0.5em;
+}
+.busqueda{
+	text-align: center;
+}
+.busqueda input.search-query{
+	height: 23px;
+}
+.table th, .table td {
+	text-align: center !important;
+	vertical-align: text-top !important;
+
+}
+.busqueda strong{
+	margin-left: 0.2em;
+	margin-right: 0.3em;
+}
+.busqueda input[type="radio"]{
+	margin: initial;
+}
+.table th, .table td, .boton-compra-busqueda{
+	float: none;
+}
+.table th, .table td, .boton-compra .precio{
+	margin-left: 0.9em;
+}
+
+#hiddendiv {
+display:none;
+h2 margin-top: 1em;	
+}
+
+.centre{
+  text-align: center;
+  width: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.big{
+	font-size: 29px;
+	line-height: 33px;
+}
+.medio{
+	font-size: 20px;
+	line-height: 25px;
+}
+	
+
